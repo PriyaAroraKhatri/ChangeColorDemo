@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/colorBlack</color>
+    // status bar color
+    <color name="colorPrimaryDark">@color/colorBlack</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+
+    //colors
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+
+    <!--Select Passenger and Add Passenger-->
+    <color name="color_background">#F5F5F5</color>
+    <color name="colorBlack_10_percent_transparency">#20000000</color>
+    <color name="colorBlack_40_percent_transparency">#40000000</color>
+    <color name="color_select_passenger_detail">#727272</color>
+    <color name="color_save_button_active">#0E54B3</color>
+    <color name="color_select_passenger_total_price_background">#5BE29E</color>
+    <color name="color_service_added">#00C168</color>
+    <color name="color_layover_bg">#F2A0A0</color>
+    <color name="color_layover_bg_new">#FEF5F5</color>
+    <color name="color_booking_list_bg_new">#F2F6FB</color>
+    <color name="color_new_price_text_color">#FF7600</color>
+
+    <!--Flight Booking Success-->
+    <color name="color_payment_success">#313841</color>
+    <color name="color_success_email_information">#707070</color>
+    <color name="color_first_character_bg">#D2D2D2</color>
+    <color name="color_reference_number">#FF0000</color>
+
+    //Login Screen Colors
+    <color name="color_edit_text_bg_color">#F7F7F7</color>
+    <color name="color_edit_text_border_color">#F7F7F7</color>
+    <color name="color_test_bg_color">#1A5AE4</color>
+    <color name="color_hint_with_38_percent">#38000000</color>
+
+    //shimmer
+    <color name="demo_light_transparent">#16000000</color>
+    <color name="default_shimmer_color">#e3e1e3</color>
+    <color name="demo_dark_transparent">#24000000</color>
+
+
+
+
+</resources>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="BlueTheme" parent="Theme.AppCompat.Light">
+        <item name="viewBackground">@style/view_Background</item>
+        <item name="editInputLayout">@style/edit_Input_Layout</item>
+        <item name="checkBox">@style/check_Box</item>
+        <item name="button">@style/button</item>
+        <item name="switchColor">@style/switch_Color</item>
+        <item name="whiteBackground">@style/white_Background</item>
+        <item name="textRegularWithGray">@style/text_Raguler_With_Gray</item>
+        <item name="textRegularWithBlue">@style/text_Ragular_With_Blue</item>
+        <item name="textRegularWithBlack">@style/text_Reguler_With_Black</item>
+        <item name="textRegularWithWhite">@style/button_text_apperance_white_raguler</item>
+        <item name="textBoldWhite">@style/text_Bold_With_White</item>
+        <item name="textBoldBlack">@style/text_Bold_With_Black</item>
+        <item name="textBoldBlue">@style/text_Bold_With_Blue</item>
+        <item name="textBoldGray">@style/text_Bold_with_Gray</item>
+        <item name="editBackgroundTint">@style/edit_background_tint</item>
+        <item name="actionbar">@style/action_bar_style</item>
+        <item name="buttonWithText">@style/button_with_text</item>
+    </style>
+
+    <style name="CustomTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/color_test_bg_color</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/color_test_bg_color</item>
+        <item name="android:statusBarColor">@color/color_save_button_active</item>
+        <item name="buttonWithText">@style/button_with_text</item>
+    </style>
+
+    <style name="CustomTheme1" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorAccent</item>
+        <item name="colorPrimaryDark">@color/colorAccent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor">@color/colorAccent</item>
+        <item name="buttonWithText">@style/button_with_text</item>
+
+    </style>
+
+    <!--Base.Theme.AppCompat.Light.DarkActionBar-->
+    <style name="YellowTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/yellow_500</item>
+        <item name="colorPrimaryDark">@color/yellow_900</item>
+        <item name="colorAccent">@color/yellow_300</item>
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:statusBarColor">@color/yellow_500</item>
+        <item name="android:windowBackground">@color/grey_200</item>
+        <item name="colorSwitchThumbNormal">@color/colorWhite</item>
+
+        <item name="buttonStyle">@style/button_yellow_textColor_background</item>
+
+
+
+    </style>
+
+    <style name="RedTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/red_500</item>
+        <item name="colorPrimaryDark">@color/red_900</item>
+        <item name="colorAccent">@color/red_300</item>
+        <item name="android:statusBarColor">@color/red_500</item>
+        <item name="android:windowBackground">@color/grey_200</item>
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="colorSwitchThumbNormal">@color/colorWhite</item>
+        <item name="buttonStyle">@style/button_red_textColor_background</item>
+    </style>
+
+
+    <style name="GreenTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/green_500</item>
+        <item name="colorPrimaryDark">@color/green_900</item>
+        <item name="colorAccent">@color/green_300</item>
+        <item name="android:statusBarColor">@color/green_500</item>
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:windowBackground">@color/grey_200</item>
+        <item name="colorSwitchThumbNormal">@color/colorWhite</item>
+        <item name="buttonStyle">@style/button_green_textColor_background</item>
+    </style>
+
+    <style name="PurpleTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_900</item>
+        <item name="colorAccent">@color/purple_300</item>
+        <item name="android:statusBarColor">@color/purple_500</item>
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:windowBackground">@color/grey_200</item>
+        <item name="colorSwitchThumbNormal">@color/colorWhite</item>
+        <item name="buttonStyle">@style/button_purple_textColor_background</item>
+
+
+    </style>
+
+
+    <style name="OrangeTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/orange_500</item>
+        <item name="colorPrimaryDark">@color/orange_900</item>
+        <item name="android:statusBarColor">@color/orange_500</item>
+        <item name="android:background">@color/orange_300</item>
+        <item name="switchColor">@style/switch_Color</item>
+        <item name="checkBox">@style/check_Box</item>
+
+
+
+    </style>
+
+
+
+
+</resources>

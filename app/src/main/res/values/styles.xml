@@ -1,0 +1,125 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <!--<style name="CustomTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="colorAccent">@color/color_test_bg_color</item>-->
+        <!--<item name="windowActionBar">false</item>-->
+        <!--<item name="windowNoTitle">true</item>-->
+        <!--<item name="android:fitsSystemWindows">true</item>-->
+    <!--</style>-->
+
+    <style name="edit_Input_Layout" parent="TextAppearance.Design.Hint">
+        <item name="android:textSize">@dimen/_12sdp</item>
+        <item name="android:textColor">@color/color_test_bg_color</item>
+        <item name="android:backgroundTint" tools:targetApi="lollipop">@color/color_test_bg_color</item>
+    </style>
+
+    <style name="button_text_apperance_white_raguler">
+        <item name="android:color">@color/colorWhite</item>
+    </style>
+
+    <style name="text_Reguler_With_Black">
+        <item name="android:color">@color/colorBlack</item>
+    </style>
+
+    <style name="text_Raguler_With_Gray">
+        <item name="android:color">@color/color_hint_with_38_percent</item>
+    </style>
+
+    <style name="text_Ragular_With_Blue">
+        <item name="android:color">@color/color_test_bg_color</item>
+    </style>
+
+    <style name="text_Bold_With_Blue">
+        <item name="android:color">@color/color_test_bg_color</item>
+    </style>
+
+    <style name="text_Bold_With_Black">
+        <item name="android:color">@color/colorBlack</item>
+    </style>
+
+    <style name="text_Bold_With_White">
+        <item name="android:color">@color/colorWhite</item>
+    </style>
+
+    <style name="text_Bold_with_Gray">
+        <item name="android:color">@color/color_hint_with_38_percent</item>
+    </style>
+
+    <style name="button" parent="button_text_apperance_white_raguler">
+        <item name="android:background">@drawable/active_button_state</item>
+    </style>
+
+    <style name="button_with_text">
+        <item name="android:background">@drawable/active_button_state</item>
+        <item name="android:textColor">@color/colorWhite</item>
+    </style>
+
+    <style name="white_Background">
+        <item name="android:background">@color/colorWhite</item>
+    </style>
+
+    <style name="switch_Color">
+        <item name="colorControlActivated">@color/color_save_button_active</item>
+    </style>
+
+    <style name="check_Box">
+        <item name="colorControlActivated">@color/color_save_button_active</item>
+    </style>
+
+    <style name="view_Background">
+        <item name="android:background">@color/colorBlack_40_percent_transparency</item>
+    </style>
+
+    <style name="edit_background_tint">
+        <item name="android:color">@color/color_hint_with_38_percent</item>
+    </style>
+
+    <style name="action_bar_style">
+        <item name="colorPrimary">@color/colorAccent</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/color_test_bg_color</item>
+        <item name="android:background">@color/color_test_bg_color</item>
+        <item name="android:statusBarColor">@color/color_save_button_active</item>
+    </style>
+
+    <style name="button_green_textColor_background">
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:background">@color/green_300</item>
+    </style>
+
+
+    <style name="button_red_textColor_background">
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:background">@color/red_300</item>
+    </style>
+
+
+    <style name="button_yellow_textColor_background">
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:background">@color/yellow_300</item>
+    </style>
+
+    <style name="button_purple_textColor_background">
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:background">@color/purple_300</item>
+    </style>
+
+
+
+
+
+
+
+</resources>

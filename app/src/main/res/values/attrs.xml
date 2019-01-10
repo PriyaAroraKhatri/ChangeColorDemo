@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="pageBackground" format="reference" />
+
+    <attr name="textBoldWhite" format="reference" />
+    <attr name="textBoldBlack" format="reference" />
+    <attr name="textBoldBlue" format="reference" />
+    <attr name="textBoldGray" format="reference" />
+
+    <attr name="textRegularWithBlack" format="reference" />
+    <attr name="textRegularWithWhite" format="reference" />
+    <attr name="textRegularWithBlue" format="reference" />
+    <attr name="textRegularWithGray" format="reference" />
+
+    <attr name="whiteBackground" format="reference" />
+
+    <attr name="button" format="reference" />
+
+    <attr name="buttonWithText" format="reference"/>
+
+    <attr name="spinner" format="reference" />
+
+    <attr name="checkBox" format="reference" />
+
+    <attr name="switchColor" format="reference" />
+
+    <attr name="editInputLayout" format="reference" />
+
+    <attr name="viewBackground" format="reference" />
+
+    <attr name="editBackgroundTint" format="reference"/>
+
+    <attr name="actionbar" format="reference"/>
+
+
+</resources>

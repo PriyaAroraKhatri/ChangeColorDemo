@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChangeColorDemo</string>
+
+    <string name="select_theme">Select theme</string>
+
+    <string-array name="theme">
+        <item>Red Theme</item>
+        <item>Yellow Theme</item>
+        <item>Green Theme</item>
+        <item>Purple Theme</item>
+
+    </string-array>
+</resources>
